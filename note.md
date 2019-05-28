@@ -1,0 +1,4 @@
+- scrolling activity 适合显示长文本, 上下拖动
+- item detail： 一个list, 每一项点开都可以打开一个新页面
+- Tabled Activity: 如图，左右滑动，可以进入不同的界面
+- navigation activity：有一个与浏览器导航类似的按钮
